@@ -1,4 +1,3 @@
-# Risc-V-Pong-game-solo
 # RISC-V Pong
 
 A single-player Pong game written in RISC-V assembly for the [RARS](https://github.com/TheThirdOne/rars) simulator. You control the left paddle against a computer opponent on the right.
